@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+models/
+.cache/
+*.log
+references/mlx_generate.py

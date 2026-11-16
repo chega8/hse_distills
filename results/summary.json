@@ -1,0 +1,10 @@
+{
+  "short": {
+    "decode_speedup": 3.5255098146942885,
+    "memory_reduction_fraction": 0.6954059350297452
+  },
+  "long": {
+    "decode_speedup": 3.3621493191254337,
+    "memory_reduction_fraction": 0.6272720027827707
+  }
+}
